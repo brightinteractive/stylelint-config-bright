@@ -1,0 +1,25 @@
+{
+  "name": "stylelint-config-bright",
+  "version": "1.0.0",
+  "description": "Stylelint config for Bright Interactive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brightinteractive/stylelint-config-bright.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "css",
+    "bright-interactive"
+  ],
+  "author": "Bright Interactive",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brightinteractive/stylelint-config-bright/issues"
+  },
+  "homepage": "https://github.com/brightinteractive/stylelint-config-bright"
+}
