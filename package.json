@@ -1,10 +1,10 @@
 {
   "name": "stylelint-config-bright",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Stylelint config for Bright Interactive",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jshint index.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/brightinteractive/stylelint-config-bright/issues"
   },
-  "homepage": "https://github.com/brightinteractive/stylelint-config-bright"
+  "homepage": "https://github.com/brightinteractive/stylelint-config-bright",
+  "devDependencies": {
+    "jshint": "^2.8.0"
+  }
 }

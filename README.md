@@ -21,7 +21,13 @@ gulp.task('csslint', function() {
 });
 ```
 
+## Developing
 
+The tests consist of a simple jshint lint of the javascript. To run, type:
+
+```console
+$ npm test
+```
 
 ## [License](LICENSE)
 
