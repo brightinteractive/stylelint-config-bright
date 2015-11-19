@@ -9,6 +9,7 @@ module.exports = {
         'rule-no-duplicate-properties': 2,
         'rule-no-single-line': 2,
         'rule-trailing-semicolon': [2, 'always'],
-        'value-no-vendor-prefix': 2
+        'value-no-vendor-prefix': 2,
+        'number-zero-length-no-unit': 2
     }
 };
